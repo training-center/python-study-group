@@ -1,4 +1,4 @@
-## Material de apoio ao grupo de estudos de Clojure
+## Material de apoio ao grupo de estudos de Python
 
 - [livros](dir/books.md)
 - [comunidades](dir/communities.md)
